@@ -72,18 +72,9 @@ Meeting-management platform, a B2B SaaS for scheduling and managing meetings at 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## Featured Projects
+## Projects
 
-Every project below has a working live demo, with a ready-to-use demo login where needed.
-
-| Project | What it is | Stack | Links |
-| ------- | ---------- | ----- | ----- |
-| **HR Manager** | Full-stack HR system: employees, documents, vacations, expiry reports with PDF export | React, TS, MUI, React Query, Node, Express, MongoDB | [Live](https://hr-system-zya6.onrender.com) · [Code](https://github.com/Abdel-Fadeel/HR-Manager) |
-| **Jobify** | Job-application tracker with auth, search, filters, pagination and stats charts | React, TS, React Router, React Query, Node, Express, MongoDB | [Live](https://jobify-peach-phi.vercel.app) · [Front](https://github.com/Abdel-Fadeel/Jobify) · [API](https://github.com/Abdel-Fadeel/Jobify-API) |
-| **WorldWise** | Travel tracker: log visited cities on an interactive world map | React, TS, Context API, Leaflet | [Live](https://world-wise-rust-ten.vercel.app) · [Code](https://github.com/Abdel-Fadeel/WorldWise) |
-| **Natours** | Tour booking app with server-side rendering, auth, reviews and a REST API | Node, Express, MongoDB, Pug | [Live](https://natours-0p40.onrender.com) · [Code](https://github.com/Abdel-Fadeel/Natours) |
-| **Forkify** | Recipe search app with bookmarks, servings calculator and custom recipes (MVC) | JavaScript, Parcel | [Live](https://forkify-beta-coral.vercel.app) · [Code](https://github.com/Abdel-Fadeel/Forkify) |
-| **The React Quiz** | Timed quiz with live scoring and progress, built with `useReducer` | React, TS | [Live](https://the-react-quiz-rosy.vercel.app) · [Code](https://github.com/Abdel-Fadeel/The-React-Quiz) |
+Check out my pinned repositories below. Each one has a working live demo linked in its About section.
 
 ## Education
 
